@@ -1,1 +1,1 @@
-This is a repository relating to this article "insert here"[text]
+This is a repository relating to this article [here]([url](https://medium.com/@owenmurphy2022/getting-started-with-node-js-graphql-and-typescript-c6a2eda7cf09)https://medium.com/@owenmurphy2022/getting-started-with-node-js-graphql-and-typescript-c6a2eda7cf09)
